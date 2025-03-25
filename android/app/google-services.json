@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105428315204",
+    "project_id": "contact-b0568",
+    "storage_bucket": "contact-b0568.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105428315204:android:0d723f6c62f5c35e2b2011",
+        "android_client_info": {
+          "package_name": "com.contactapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQtlwUPtfpRWUB9-d2ZTjQR1npFTNLhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
