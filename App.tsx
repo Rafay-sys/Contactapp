@@ -253,7 +253,7 @@ import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 import StackNavigator from './src/navigation/Stacknavigator'
 import { NavigationContainer } from '@react-navigation/native'
-
+// // const styles = StyleSheet.create({})
 const App = () => {
   return (
     <NavigationContainer>
