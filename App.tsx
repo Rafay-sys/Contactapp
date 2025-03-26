@@ -7,6 +7,7 @@ const App = () => {
   const [messages, setMessages] = useState([])
 
   useEffect(() => {
+    //completed the feature messages
     setMessages([
       {
         _id: 1,
